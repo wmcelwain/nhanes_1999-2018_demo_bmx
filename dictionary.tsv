@@ -1,0 +1,28 @@
+Respondent sequence number	int	1,1000000	WTINT20YR
+Pregnancy status at exam	category	1:Yes, positive lab pregnancy test or self-reported pregnant at exam;2:SP not pregnant at exam;3:Cannot ascertain if SP is pregnant at exam	WTINT20YR
+Gender	category	1:Male;2:Female	WTINT20YR
+Education level - Adults 20+	category	1:Less Than 9th Grade;2:9-11th Grade (Includes 12th grade with no diploma);3:High School Grad/GED or Equivalent;4:Some College or AA degree;5:College Graduate or above;7:Refused;9:Don't Know	WTINT20YR
+Data release cycle	category	1:NHANES 1999-2000 Public Release;2:NHANES 2001-2002 Public Release;3:NHANES 2003-2004 Public Release;4:NHANES 2005-2006 Public Release;5:NHANES 2007-2008 Public Release;6:NHANES 2009-2010 Public Release;7:NHANES 2011-2012 public release;8:NHANES 2013-2014 public release;9:NHANES 2015-2016 public release;10:NHANES 2017-2018 public release	WTINT20YR
+Age in years at screening	int	0,85	WTINT20YR
+Race/Hispanic origin	category	1:Mexican American;2:Other Hispanic;3:Non-Hispanic White;4:Non-Hispanic Black;5:Other Race - Including Multi-Racial	WTINT20YR
+Interview/Examination status	category	1:Interviewed Only;2:Both Interviewed and MEC examined	WTINT20YR
+Total number of people in the Household	int	1,7	WTINT20YR
+Marital status	category	1:Married;2:Widowed;3:Divorced;4:Separated;5:Never married;6:Living with partner;77:Refused;99:Don't know	WTINT20YR
+Education level - Children/Youth 6-19	category	0:Never Attended / Kindergarten Only;1:1st Grade;2:2nd Grade;3:3rd Grade;4:4th Grade;5:5th Grade;6:6th Grade;7:7th Grade;8:8th Grade;9:9th Grade;10:10th Grade;11:11th Grade;12:12th Grade, No Diploma;13:High School Graduate;14:GED or Equivalent;15:More than high school;55:Less Than 5th Grade;66:Less Than 9th Grade;77:Refused;99:Don't know	WTINT20YR
+Six month time period	category	1:November 1 through April 30;2:May 1 through October 31	WTINT20YR
+Citizenship status	category	1:Citizen by birth or naturalization;2:Not a citizen of the US;7:Refused;9:Don't know	WTINT20YR
+Ratio of family income to poverty	float	0.0,4.99;5:PIR value greater than or equal to 5.00	WTINT20YR
+Age in months at screening - 0 to 24 mos	int	0,1019	WTINT20YR
+Length of time in US	category	1:Less than 1 year;2:1 yr., less than 5 yrs.;3:5 yrs., less than 10 yrs.;4:10 yrs., less than 15 yrs.;5:15 yrs., less than 20 yrs.;6:20 yrs., less than 30 yrs.;7:30 yrs., less than 40 yrs.;8:40 yrs., less than 50 yrs.;9:50 years or more;77:Refused;88:Could not determine;99:Don't know	WTINT20YR
+HH ref person's gender	category	1:Male;2:Female	WTINT20YR
+Arm Circumference (cm)	float	9.6,62.4	WTMEC20YR
+Waist Circumference (cm)	float	32.0,179.0	WTMEC20YR
+Upper Leg Length (cm)	float	20.4,55.5	WTMEC20YR
+Upper Arm Length (cm)	float	9.0,49.9	WTMEC20YR
+Head Circumference (cm)	float	15.5,50.2	WTMEC20YR
+Recumbent Length (cm)	float	44.3,116.7	WTMEC20YR
+Weight (kg)	float	2.4,371.0	WTMEC20YR
+Body Mass Index (kg/m**2)	float	7.99,130.21	WTMEC20YR
+Standing Height (cm)	float	78.3,204.5	WTMEC20YR
+Full Sample 20 Year MEC Exam Weight	float	0.0,41976.283648757606	sample weight
+Full Sample 20 Year Interview Weight	float	122.4968032,43308.500526249605	sample weight
