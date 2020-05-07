@@ -1,0 +1,59 @@
+Respondent sequence number	int	1,1000000	WTINT2YR
+Interview/Examination Status	category	1:Interviewed Only;2:Both Interviewed and MEC examined	WTINT2YR
+Age in Months - Recode	int	0,1019	WTINT2YR
+Gender	category	1:Male;2:Female	WTINT2YR
+Total number of people in the Household	int	1,7	WTINT2YR
+Annual Household Income	category	1:$     0 to $ 4,999;2:$ 5,000 to $ 9,999;3:$10,000 to $14,999;4:$15,000 to $19,999;5:$20,000 to $24,999;6:$25,000 to $34,999;7:$35,000 to $44,999;8:$45,000 to $54,999;9:$55,000 to $64,999;10:$65,000 to $74,999;11:$75,000 and Over;12:Over $20,000;13:Under $20,000;77:Refused;99:Don't know	WTINT2YR
+HH Ref Person Marital Status	category	1:Married;2:Widowed;3:Divorced;4:Separated;5:Never married;6:Living with partner;77:Refused;99:Don't know	WTINT2YR
+Pregnancy Status at Exam - Recode	category	1:Yes, positive lab pregnancy test or self-reported pregnant at exam;2:SP not pregnant at exam;3:Cannot ascertain if SP is pregnant at exam	WTINT2YR
+Education - Recode (old version)	category	1:Less Than High School;2:High School Diploma (including GED);3:More Than High School;7:Refused;9:Don't know	WTINT2YR
+Veteran/Military Status	category	1:Yes;2:No;7:Refused;9:Don't know	WTINT2YR
+Annual Family Income	category	1:$     0 to $ 4,999;2:$ 5,000 to $ 9,999;3:$10,000 to $14,999;4:$15,000 to $19,999;5:$20,000 to $24,999;6:$25,000 to $34,999;7:$35,000 to $44,999;8:$45,000 to $54,999;9:$55,000 to $64,999;10:$65,000 to $74,999;11:$75,000 and Over;12:Over $20,000;13:Under $20,000;77:Refused;99:Don't know	WTINT2YR
+Education Level - Adults 20+	category	1:Less Than 9th Grade;2:9-11th Grade (Includes 12th grade with no diploma);3:High School Grad/GED or Equivalent;4:Some College or AA degree;5:College Graduate or above;7:Refused;9:Don't Know	WTINT2YR
+Country of Birth - Recode	category	1:Born in 50 US States or Washington, DC;2:Born in Mexico;3:Born Elsewhere;7:Refused;9:Don't Know	WTINT2YR
+Race/Ethnicity - Recode	category	1:Mexican American;2:Other Hispanic;3:Non-Hispanic White;4:Non-Hispanic Black;5:Other Race - Including Multi-Racial	WTINT2YR
+Data Release Number	category	1:NHANES 1999-2000 Public Release	WTINT2YR
+Education Level - Children/Youth 6-19	category	0:Never Attended / Kindergarten Only;1:1st Grade;2:2nd Grade;3:3rd Grade;4:4th Grade;5:5th Grade;6:6th Grade;7:7th Grade;8:8th Grade;9:9th Grade;10:10th Grade;11:11th Grade;12:12th Grade, No Diploma;13:High School Graduate;14:GED or Equivalent;15:More than high school;55:Less Than 5th Grade;66:Less Than 9th Grade;77:Refused;99:Don't know	WTINT2YR
+Length of time in US	category	1:Less than 1 year;2:1 yr., less than 5 yrs.;3:5 yrs., less than 10 yrs.;4:10 yrs., less than 15 yrs.;5:15 yrs., less than 20 yrs.;6:20 yrs., less than 30 yrs.;7:30 yrs., less than 40 yrs.;8:40 yrs., less than 50 yrs.;9:50 years or more;77:Refused;88:Could not determine;99:Don't know	WTINT2YR
+HH Ref Person's Spouse Education Level	category	1:Less Than 9th Grade;2:9-11th Grade (Includes 12th grade with no diploma);3:High School Grad/GED or equivalent;4:Some College or AA degree;5:College Graduate or above;7:Refused;9:Don't know	WTINT2YR
+HH Ref Person Age	int	17,85	WTINT2YR
+HH Ref Person Education Level	category	1:Less Than 9th Grade;2:9-11th Grade (Includes 12th grade with no diploma);3:High School Grad/GED or equivalent;4:Some College or AA degree;5:College Graduate or above;7:Refused;9:Don't know	WTINT2YR
+Linked NH3 Race/Ethnicity - Recode	category	1:Non-Hispanic White;2:Non-Hispanic Black;3:Mexican American;4:Other Race - Including Multi-Racial;5:Other Hispanic	WTINT2YR
+HH Ref Person Country of Birth	category	1:Born in 50 US States or Washington, DC;2:Born in Mexico;3:Born Elsewhere;7:Refused;9:Don't know	WTINT2YR
+HH Ref Person Gender	category	1:Male;2:Female	WTINT2YR
+Age at Screening Adjudicated - Recode	int	0,85	WTINT2YR
+Exam Age in Months - Recode	int	0,1019	WTINT2YR
+Now attending school?	category	1:In school;2:On vacation from school (between grades);3:Neither in school or on vacation from school (between grades);7:Refused;9:Don't know	WTINT2YR
+Six month time period	category	1:November 1 through April 30;2:May 1 through October 31	WTINT2YR
+Citizenship Status	category	1:Citizen by birth or naturalization;2:Not a citizen of the US;7:Refused;9:Don't know	WTINT2YR
+Family PIR	float	0,4.99;5:PIR value greater than or equal to 5.00	WTINT2YR
+Pregnancy Status - Recode (old version)	category	1:Yes, based on positive lab pregnancy test, self-reported pregnancy status, screener interview data or menstrual period history;2:SP not pregnant;9:Cannot ascertain if SP is pregnant	WTINT2YR
+Marital Status	category	1:Married;2:Widowed;3:Divorced;4:Separated;5:Never married;6:Living with partner;77:Refused;99:Don't know	WTINT2YR
+Waist Circumference (cm)	float	38.2,173.4	WTMEC2YR
+Subscapular Skinfold (mm)	float	2.2,42.2	WTMEC2YR
+Amputations Upper Left Extremity?	category	1:Yes;2:No;9:Could not obtain	WTMEC2YR
+Body Mass Index (kg/m**2)	float	11.49,66.44	WTMEC2YR
+Amputations LR  Above or Below Knee?	category	1:Above knee;2:Below knee	WTMEC2YR
+Status of a MEC exam	category	1:Complete;2:Partial;3:Not Done	WTMEC2YR
+Upper Arm Length (cm)	float	9.1,46.5	WTMEC2YR
+Amputations LL  Above or Below Knee?	category	1:Above knee;2:Below knee	WTMEC2YR
+Amputations?	category	1:Yes;2:No	WTMEC2YR
+Upper Leg Length (cm)	float	23.6,55	WTMEC2YR
+Standing Height (cm)	float	81.8,201.3	WTMEC2YR
+Arm Circumference (cm)	float	10.8,58.2	WTMEC2YR
+Head Circumference (cm)	float	15.5,47.9	WTMEC2YR
+Amputations Upper Right Extremity?	category	1:Yes;2:No;9:Could not obtain	WTMEC2YR
+Maximal Calf Circumference (cm)	float	18,59.6	WTMEC2YR
+Amputations Lower Left Extremity?	category	1:Yes;2:No;9:Could not obtain	WTMEC2YR
+Triceps Skinfold (mm)	float	2.4,43.6	WTMEC2YR
+Weight (kg)	float	3.1,193.3	WTMEC2YR
+Length of a MEC exam (sec)	int	0,909	WTMEC2YR
+Thigh Circumference (cm)	float	25.1,94.3	WTMEC2YR
+Recumbent Length (cm)	float	44.9,110.3	WTMEC2YR
+Amputations UL  Above or Below Elbow?	category	1:Above elbow;2:Below elbow	WTMEC2YR
+Amputations Lower Right Extremity?	category	1:Yes;2:No;9:Could not obtain	WTMEC2YR
+Amputations UR  Above or Below Elbow?	category	1:Above elbow;2:Below elbow	WTMEC2YR
+Full Sample 4 Year Interview Weight	float	620.682382,100652.32964	sample weight
+Full Sample 2 Year Interview Weight	float	974.66525161,236864.13597	sample weight
+Full Sample 2 Year MEC Exam Weight	float	0,261361.33834	sample weight
+Full Sample 4 Year MEC Exam Weight	float	0,103831.17105	sample weight

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+ <group name="Demographics">
+  <table name="Demographic Variables and Sample Weights (DEMO)">
+   <variable name="SEQN"/>
+   <variable name="SDDSRVYR"/>
+   <variable name="RIDSTATR"/>
+   <variable name="RIDEXMON"/>
+   <variable name="RIAGENDR"/>
+   <variable name="RIDAGEYR"/>
+   <variable name="RIDAGEMN"/>
+   <variable name="RIDAGEEX"/>
+   <variable name="RIDRETH1"/>
+   <variable name="RIDRETH2"/>
+   <variable name="DMQMILIT"/>
+   <variable name="DMDBORN"/>
+   <variable name="DMDCITZN"/>
+   <variable name="DMDYRSUS"/>
+   <variable name="DMDEDUC3"/>
+   <variable name="DMDEDUC2"/>
+   <variable name="DMDEDUC"/>
+   <variable name="DMDSCHOL"/>
+   <variable name="DMDMARTL"/>
+   <variable name="DMDHHSIZ"/>
+   <variable name="INDHHINC"/>
+   <variable name="INDFMINC"/>
+   <variable name="INDFMPIR"/>
+   <variable name="RIDEXPRG"/>
+   <variable name="RIDPREG"/>
+   <variable name="DMDHRGND"/>
+   <variable name="DMDHRAGE"/>
+   <variable name="DMDHRBRN"/>
+   <variable name="DMDHREDU"/>
+   <variable name="DMDHRMAR"/>
+   <variable name="DMDHSEDU"/>
+  </table>
+ </group>
+ <group name="Examination">
+  <table name="Body Measures (BMX)">
+   <variable name="BMAEXLEN"/>
+   <variable name="BMAEXSTS"/>
+   <variable name="BMXWT"/>
+   <variable name="BMXRECUM"/>
+   <variable name="BMXHEAD"/>
+   <variable name="BMXHT"/>
+   <variable name="BMXBMI"/>
+   <variable name="BMXLEG"/>
+   <variable name="BMXCALF"/>
+   <variable name="BMXARML"/>
+   <variable name="BMXARMC"/>
+   <variable name="BMXWAIST"/>
+   <variable name="BMXTHICR"/>
+   <variable name="BMXTRI"/>
+   <variable name="BMXSUB"/>
+   <variable name="BMAAMP"/>
+   <variable name="BMAUREXT"/>
+   <variable name="BMAUPREL"/>
+   <variable name="BMAULEXT"/>
+   <variable name="BMAUPLEL"/>
+   <variable name="BMALOREX"/>
+   <variable name="BMALORKN"/>
+   <variable name="BMALLEXT"/>
+   <variable name="BMALLKNE"/>
+  </table>
+ </group>
+ <group name="Weights">
+  <table name="Sample weights">
+   <variable name="WTINT2YR"/>
+   <variable name="WTINT4YR"/>
+   <variable name="WTMEC2YR"/>
+   <variable name="WTMEC4YR"/>
+  </table>
+  <table name="Subsample weights">
+   <variable name="WTSAU2YR.AUX1"/>
+   <variable name="WTSAU4YR.AUX1"/>
+   <variable name="WTSAU2YR.AUXAR"/>
+   <variable name="WTSAU4YR.AUXAR"/>
+   <variable name="WTSAU2YR.AUXTYM"/>
+   <variable name="WTSAU4YR.AUXTYM"/>
+   <variable name="WTSBA2YR.BAX"/>
+   <variable name="WTSBA4YR.BAX"/>
+  </table>
+ </group>
+</data>

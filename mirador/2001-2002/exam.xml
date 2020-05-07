@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data name="Examination">
+  <table include="yes" name="Body Measures (BMX_B)">
+    <var include="yes" weight="no"><short>BMXWT</short><full>Weight (kg)</full><type>float</type><range>3.3,196.8</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIWT</short><full>Weight Comment</full><type>category</type><range>1:Could not obtain;2:Exceeds capacity;3:Clothing;4:Medical appliance</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXRECUM</short><full>Recumbent Length (cm)</full><type>float</type><range>48.4,112.7</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIRECUM</short><full>Recumbent Length Comment</full><type>category</type><range>1:Could not obtain;2:Exceeds capacity;3:Not straight</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXHEAD</short><full>Head Circumference (cm)</full><type>float</type><range>35.1,50.2</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIHEAD</short><full>Head Circumference Comment</full><type>category</type><range>1:Could not obtain;2:Exceeds capacity;3:Not straight</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXHT</short><full>Standing Height (cm)</full><type>float</type><range>79,199.1</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIHT</short><full>Standing Height Comment</full><type>category</type><range>1:Could not obtain;2:Exceeds capacity;3:Not straight</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXBMI</short><full>Body Mass Index (kg/m**2)</full><type>float</type><range>7.99,65.41</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXLEG</short><full>Upper Leg Length (cm)</full><type>float</type><range>24.8,55</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMILEG</short><full>Upper Leg Length Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXCALF</short><full>Maximal Calf Circumference (cm)</full><type>float</type><range>21.6,61.6</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMICALF</short><full>Maximal Calf Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXARML</short><full>Upper Arm Length (cm)</full><type>float</type><range>10,46.5</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIARML</short><full>Upper Arm Length Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXARMC</short><full>Arm Circumference (cm)</full><type>float</type><range>11.1,59.8</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIARMC</short><full>Arm Circumference Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXWAIST</short><full>Waist Circumference (cm)</full><type>float</type><range>39.6,165.2</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIWAIST</short><full>Waist Circumference Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXTHICR</short><full>Thigh Circumference (cm)</full><type>float</type><range>29.2,100</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMITHICR</short><full>Thigh Circumference Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXTRI</short><full>Triceps Skinfold (mm)</full><type>float</type><range>1.4,44.7</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMITRI</short><full>Triceps Skinfold Comment</full><type>category</type><range>1:Could not obtain;2:Exceeds capacity;3:Hard to obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXSUB</short><full>Subscapular Skinfold (mm)</full><type>float</type><range>2.8,43.2</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+    <var include="no" weight="no"><short>BMISUB</short><full>Subscapular Skinfold Comment</full><type>category</type><range>1:Could not obtain;2:Exceeds capacity;3:Hard to obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2001-2002\BMX_B.csv</datafile></var>
+  </table>
+</data>

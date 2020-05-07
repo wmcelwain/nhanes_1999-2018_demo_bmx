@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data name="Weights">
+  <table include="yes" name="Sample weights">
+    <var include="yes" weight="yes" subsample="no"><short>WTINT2YR</short><full>Full Sample 2 Year Interview Weight</full><type>float</type><range>1492.093618,201188.12151</range><datafile>data/sources/csv/2001-2002\DEMO_B.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="no"><short>WTINT4YR</short><full>Full Sample 4 Year Interview Weight</full><type>float</type><range>683.456211,94900.896398</range><datafile>data/sources/csv/2001-2002\DEMO_B.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="no"><short>WTMEC2YR</short><full>Full Sample 2 Year MEC Exam Weight</full><type>float</type><range>0,211850.66405</range><datafile>data/sources/csv/2001-2002\DEMO_B.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="no"><short>WTMEC4YR</short><full>Full Sample 4 Year MEC Exam Weight</full><type>float</type><range>0,103831.17105</range><datafile>data/sources/csv/2001-2002\DEMO_B.csv</datafile></var>
+  </table>
+  <table include="yes" name="Subsample weights">
+    <var include="yes" weight="yes" subsample="yes"><short>WTSAU2YR.AUX_B</short><full>Audiometry Subsample 2 Year Mec Weight</full><type>float</type><range>3358.532488693230,411457.268689780000</range><datafile>data/sources/csv/2001-2002\AUX_B.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="yes"><short>WTSAU4YR.AUX_B</short><full>Audiometry Subsample 4 Year Mec Weight</full><type>float</type><range>1717.538914,212637.94244</range><datafile>data/sources/csv/2001-2002\AUX_B.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="yes"><short>WTSAU2YR.AUXAR_B</short><full>Audiometry Subsample 2 Year Mec Weight</full><type>float</type><range>3358.5324887,411457.26869</range><datafile>data/sources/csv/2001-2002\AUXAR_B.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="yes"><short>WTSAU4YR.AUXAR_B</short><full>Audiometry Subsample 4 Year Mec Weight</full><type>float</type><range>1717.538914,212637.94244</range><datafile>data/sources/csv/2001-2002\AUXAR_B.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="yes"><short>WTSAU2YR.AUXTYM_B</short><full>Audiometry Subsample 2 Year Mec Weight</full><type>float</type><range>3358.5324887,411457.26869</range><datafile>data/sources/csv/2001-2002\AUXTYM_B.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="yes"><short>WTSAU4YR.AUXTYM_B</short><full>Audiometry Subsample 4 Year Mec Weight</full><type>float</type><range>1717.538914,212637.94244</range><datafile>data/sources/csv/2001-2002\AUXTYM_B.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="yes"><short>WTSBA4YR.BAX_B</short><full>Balance Subsample 4 Year Mec Weight</full><type>float</type><range>1556.3775566,90972.569512</range><datafile>data/sources/csv/2001-2002\BAX_B.csv</datafile></var>
+  </table>
+</data>

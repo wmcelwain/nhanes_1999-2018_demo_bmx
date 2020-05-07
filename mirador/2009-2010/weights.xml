@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data name="Weights">
+  <table include="yes" name="Sample weights">
+    <var include="yes" weight="yes" subsample="no"><short>WTINT2YR</short><full>Full Sample 2 Year Interview Weight</full><type>float</type><range>3279.931789,153810.25883</range><datafile>data/sources/csv/2009-2010\DEMO_F.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="no"><short>WTMEC2YR</short><full>Full Sample 2 Year MEC Exam Weight</full><type>float</type><range>0,158146.91752</range><datafile>data/sources/csv/2009-2010\DEMO_F.csv</datafile></var>
+  </table>
+</data>

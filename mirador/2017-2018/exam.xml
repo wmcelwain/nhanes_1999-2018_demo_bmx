@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data name="Examination">
+  <table include="yes" name="Body Measures (BMX_J)">
+    <var include="no" weight="no"><short>BMDSTATS</short><full>Body Measures Component Status Code</full><type>category</type><range>1:Complete data for age group;2:Partial  Only height and weight obtained;3:Other partial exam;4:No body measures exam data</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXWT</short><full>Weight (kg)</full><type>float</type><range>3.2,242.6</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIWT</short><full>Weight Comment</full><type>category</type><range>1:Could not obtain;3:Clothing;4:Medical appliance</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXRECUM</short><full>Recumbent Length (cm)</full><type>float</type><range>49.1,111.3</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIRECUM</short><full>Recumbent Length Comment</full><type>category</type><range>1:Could not obtain;3:Not straight</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXHEAD</short><full>Head Circumference (cm)</full><type>float</type><range>32.4,47.9</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIHEAD</short><full>Head Circumference Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXHT</short><full>Standing Height (cm)</full><type>float</type><range>78.3,197.7</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIHT</short><full>Standing Height Comment</full><type>category</type><range>1:Could not obtain;3:Not straight</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXBMI</short><full>Body Mass Index (kg/m**2)</full><type>float</type><range>12.3,86.2</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXLEG</short><full>Upper Leg Length (cm)</full><type>float</type><range>24.8,55</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="no" weight="no"><short>BMILEG</short><full>Upper Leg Length Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXARML</short><full>Upper Arm Length (cm)</full><type>float</type><range>9.4,49.9</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIARML</short><full>Upper Arm Length Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXARMC</short><full>Arm Circumference (cm)</full><type>float</type><range>11.2,56.3</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIARMC</short><full>Arm Circumference Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXWAIST</short><full>Waist Circumference (cm)</full><type>float</type><range>40,169.5</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIWAIST</short><full>Waist Circumference Comment</full><type>category</type><range>1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="yes" weight="no"><short>BMXHIP</short><full>Hip Circumference (cm)</full><type>float</type><range>66.6,179;1:Could not obtain</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+    <var include="no" weight="no"><short>BMIHIP</short><full>Hip Circumference Comment</full><type>integer</type><range>1,1</range><weight>WTMEC2YR</weight><datafile>data/sources/csv/2017-2018\BMX_J.csv</datafile></var>
+  </table>
+</data>

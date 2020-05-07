@@ -1,0 +1,52 @@
+Respondent sequence number	int	1,1000000	WTINT2YR
+Six month time period	category	1:November 1 through April 30;2:May 1 through October 31	WTINT2YR
+Total number of people in the Family	int	1,7	WTINT2YR
+Citizenship Status	category	1:Citizen by birth or naturalization;2:Not a citizen of the US;7:Refused;9:Don't know	WTINT2YR
+Annual Household Income	category	1:$     0 to $ 4,999;2:$ 5,000 to $ 9,999;3:$10,000 to $14,999;4:$15,000 to $19,999;5:$20,000 to $24,999;6:$25,000 to $34,999;7:$35,000 to $44,999;8:$45,000 to $54,999;9:$55,000 to $64,999;10:$65,000 to $74,999;12:Over $20,000;13:Under $20,000;14:$75,000 to $99,999;15:$100,000 and Over;77:Refused;99:Don't know	WTINT2YR
+Education Level - Children/Youth 6-19	category	0:Never Attended / Kindergarten Only;1:1st Grade;2:2nd Grade;3:3rd Grade;4:4th Grade;5:5th Grade;6:6th Grade;7:7th Grade;8:8th Grade;9:9th Grade;10:10th Grade;11:11th Grade;12:12th Grade, No Diploma;13:High School Graduate;14:GED or Equivalent;15:More than high school;55:Less Than 5th Grade;66:Less Than 9th Grade;77:Refused;99:Don't know	WTINT2YR
+HH Ref Person's Spouse Education Level	category	1:Less Than 9th Grade;2:9-11th Grade (Includes 12th grade with no diploma);3:High School Grad/GED or equivalent;4:Some College or AA degree;5:College Graduate or above;7:Refused;9:Don't know	WTINT2YR
+Interpreter used in SP Interview?	category	1:Yes;2:No	WTINT2YR
+Interpreter used in Family Interview?	category	1:Yes;2:No	WTINT2YR
+Data Release Number	category	5:NHANES 2007-2008 Public Release	WTINT2YR
+Language of SP Interview	category	1:English;2:Spanish	WTINT2YR
+Age in Months at Exam - Recode	int	0,959	WTINT2YR
+Language of Family Interview	category	1:English;2:Spanish	WTINT2YR
+Now attending school?	category	1:In school;2:On vacation from school (between grades);3:Neither in school or on vacation from school (between grades);7:Refused;9:Don't know	WTINT2YR
+Language of MEC Interview	category	1:English;2:Spanish	WTINT2YR
+Interview/Examination Status	category	1:Interviewed Only;2:Both Interviewed and MEC examined	WTINT2YR
+Pregnancy Status at Exam - Recode	category	1:Yes, positive lab pregnancy test or self-reported pregnant at exam;2:SP not pregnant at exam;3:Cannot ascertain if SP is pregnant at exam	WTINT2YR
+Interpreter used in MEC Interview?	category	1:Yes;2:No	WTINT2YR
+Gender	category	1:Male;2:Female	WTINT2YR
+Served in the US Armed Forces	category	1:Yes;2:No;7:Refused;9:Don't know	WTINT2YR
+Ratio of family income to poverty	float	0,4.99;5:Value greater than or equal to 5.00	WTINT2YR
+Race/Ethnicity - Recode	category	1:Mexican American;2:Other Hispanic;3:Non-Hispanic White;4:Non-Hispanic Black;5:Other Race - Including Multi-Racial	WTINT2YR
+Age in Months at Screening - Recode	int	0,959	WTINT2YR
+Proxy used in SP Interview?	category	1:Yes;2:No	WTINT2YR
+Annual Family Income	category	1:$     0 to $ 4,999;2:$ 5,000 to $ 9,999;3:$10,000 to $14,999;4:$15,000 to $19,999;5:$20,000 to $24,999;6:$25,000 to $34,999;7:$35,000 to $44,999;8:$45,000 to $54,999;9:$55,000 to $64,999;10:$65,000 to $74,999;12:Over $20,000;13:Under $20,000;14:$75,000 to $99,999;15:$100,000 and Over;77:Refused;99:Don't know	WTINT2YR
+Education Level - Adults 20+	category	1:Less Than 9th Grade;2:9-11th Grade (Includes 12th grade with no diploma);3:High School Grad/GED or Equivalent;4:Some College or AA degree;5:College Graduate or above;7:Refused;9:Don't Know	WTINT2YR
+Proxy used in Family Interview?	category	1:Yes;2:No	WTINT2YR
+Country of Birth - Recode	category	1:Born in 50 US States or Washington, DC;2:Born in Mexico;4:Born in Other Spanish Speaking Country;5:Born in Other Non-Spanish Speaking Country;7:Refused;9:Don't Know	WTINT2YR
+Language of ACASI Interview	category	1:English;2:Spanish	WTINT2YR
+Proxy used in MEC Interview?	category	1:Yes;2:No	WTINT2YR
+Total number of people in the Household	int	1,7	WTINT2YR
+HH Ref Person Gender	category	1:Male;2:Female	WTINT2YR
+Length of time in US	category	1:Less than 1 year;2:1 yr., less than 5 yrs.;3:5 yrs., less than 10 yrs.;4:10 yrs., less than 15 yrs.;5:15 yrs., less than 20 yrs.;6:20 yrs., less than 30 yrs.;7:30 yrs., less than 40 yrs.;8:40 yrs., less than 50 yrs.;9:50 years or more;77:Refused;99:Don't know	WTINT2YR
+HH Ref Person Marital Status	category	1:Married;2:Widowed;3:Divorced;4:Separated;5:Never married;6:Living with partner;77:Refused;99:Don't know	WTINT2YR
+Age at Screening Adjudicated - Recode	int	0,80	WTINT2YR
+HH Ref Person Education Level	category	1:Less Than 9th Grade;2:9-11th Grade (Includes 12th grade with no diploma);3:High School Grad/GED or equivalent;4:Some College or AA degree;5:College Graduate or above;7:Refused;9:Don't know	WTINT2YR
+Marital Status	category	1:Married;2:Widowed;3:Divorced;4:Separated;5:Never married;6:Living with partner;77:Refused;99:Don't know	WTINT2YR
+HH Ref Person Country of Birth	category	1:Born in 50 US States or Washington, DC;2:Born in Mexico;4:Born in Other Spanish Speaking Country;5:Born in Other Non-Spanish Speaking Country;7:Refused;9:Don't know	WTINT2YR
+HH Ref Person Age	int	18,80	WTINT2YR
+Upper Leg Length (cm)	float	22.1,55.5	WTMEC2YR
+Arm Circumference (cm)	float	9.6,59.4	WTMEC2YR
+Head Circumference (cm)	float	33.5,47.4	WTMEC2YR
+Upper Arm Length (cm)	float	9,47.7	WTMEC2YR
+Waist Circumference (cm)	float	37.8,178.2	WTMEC2YR
+Recumbent Length (cm)	float	49.1,116.6	WTMEC2YR
+Weight (kg)	float	3.1,218.2	WTMEC2YR
+Body Mass Index (kg/m**2)	float	12.5,73.43	WTMEC2YR
+Triceps Skinfold (mm)	float	3,41.4	WTMEC2YR
+Subscapular Skinfold (mm)	float	3,44	WTMEC2YR
+Standing Height (cm)	float	81.5,203.8	WTMEC2YR
+Full Sample 2 Year Interview Weight	float	2359.373828,186295.50665	sample weight
+Full Sample 2 Year MEC Exam Weight	float	0,192770.73006	sample weight

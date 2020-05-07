@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data name="Weights">
+  <table include="yes" name="Sample weights">
+    <var include="yes" weight="yes" subsample="no"><short>WTINT2YR</short><full>Full Sample 2 Year Interview Weight</full><type>float</type><range>1498.994197,156319.65778</range><datafile>data/sources/csv/2003-2004\DEMO_C.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="no"><short>WTMEC2YR</short><full>Full Sample 2 Year MEC Exam Weight</full><type>float</type><range>0,159302.77518</range><datafile>data/sources/csv/2003-2004\DEMO_C.csv</datafile></var>
+  </table>
+  <table include="yes" name="Subsample weights">
+    <var include="yes" weight="yes" subsample="yes"><short>WTSAU2YR.AUX_C</short><full>Audiometry Subsample 2 year MEC Weight</full><type>float</type><range>0,323087.55894</range><datafile>data/sources/csv/2003-2004\AUX_C.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="yes"><short>WTSAU2YR.AUXAR_C</short><full>Audiometry Subsample 2 Year Mec Weight</full><type>float</type><range>0,323087.55894</range><datafile>data/sources/csv/2003-2004\AUXAR_C.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="yes"><short>WTSAU2YR.AUXTYM_C</short><full>Audiometry Subsample 2 Year Mec Weight</full><type>float</type><range>5203.8321015,323087.55894</range><datafile>data/sources/csv/2003-2004\AUXTYM_C.csv</datafile></var>
+  </table>
+</data>

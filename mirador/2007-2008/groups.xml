@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+ <group name="Demographics">
+  <table name="Demographic Variables and Sample Weights (DEMO_E)">
+   <variable name="SEQN"/>
+   <variable name="SDDSRVYR"/>
+   <variable name="RIDSTATR"/>
+   <variable name="RIDEXMON"/>
+   <variable name="RIAGENDR"/>
+   <variable name="RIDAGEYR"/>
+   <variable name="RIDAGEMN"/>
+   <variable name="RIDAGEEX"/>
+   <variable name="RIDRETH1"/>
+   <variable name="DMQMILIT"/>
+   <variable name="DMDBORN2"/>
+   <variable name="DMDCITZN"/>
+   <variable name="DMDYRSUS"/>
+   <variable name="DMDEDUC3"/>
+   <variable name="DMDEDUC2"/>
+   <variable name="DMDSCHOL"/>
+   <variable name="DMDMARTL"/>
+   <variable name="DMDHHSIZ"/>
+   <variable name="DMDFMSIZ"/>
+   <variable name="INDHHIN2"/>
+   <variable name="INDFMIN2"/>
+   <variable name="INDFMPIR"/>
+   <variable name="RIDEXPRG"/>
+   <variable name="DMDHRGND"/>
+   <variable name="DMDHRAGE"/>
+   <variable name="DMDHRBR2"/>
+   <variable name="DMDHREDU"/>
+   <variable name="DMDHRMAR"/>
+   <variable name="DMDHSEDU"/>
+   <variable name="SIALANG"/>
+   <variable name="SIAPROXY"/>
+   <variable name="SIAINTRP"/>
+   <variable name="FIALANG"/>
+   <variable name="FIAPROXY"/>
+   <variable name="FIAINTRP"/>
+   <variable name="MIALANG"/>
+   <variable name="MIAPROXY"/>
+   <variable name="MIAINTRP"/>
+   <variable name="AIALANG"/>
+  </table>
+ </group>
+ <group name="Examination">
+  <table name="Body Measures (BMX_E)">
+   <variable name="BMXWT"/>
+   <variable name="BMXRECUM"/>
+   <variable name="BMXHEAD"/>
+   <variable name="BMXHT"/>
+   <variable name="BMXBMI"/>
+   <variable name="BMXLEG"/>
+   <variable name="BMXARML"/>
+   <variable name="BMXARMC"/>
+   <variable name="BMXWAIST"/>
+   <variable name="BMXTRI"/>
+   <variable name="BMXSUB"/>
+  </table>
+ </group>
+ <group name="Weights">
+  <table name="Sample weights">
+   <variable name="WTINT2YR"/>
+   <variable name="WTMEC2YR"/>
+  </table>
+ </group>
+</data>
