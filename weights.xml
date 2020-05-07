@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data name="Weights">
+  <table include="yes" name="Sample weights">
+    <var include="yes" weight="yes" subsample="no"><short>WTINT20YR</short><full>Full Sample 20 Year Interview Weight</full><type>float</type><range>122.4968032,43308.500526249605</range><datafile>data/mirador/1999-2018/weights.csv</datafile></var>
+    <var include="yes" weight="yes" subsample="no"><short>WTMEC20YR</short><full>Full Sample 20 Year MEC Exam Weight</full><type>float</type><range>0.0,41976.283648757606</range><datafile>data/mirador/1999-2018/weights.csv</datafile></var>
+  </table>
+</data>

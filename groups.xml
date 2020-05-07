@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+ <group name="Demographics">
+  <table name="Demographic Variables and Sample Weights (DEMO_J)">
+   <variable name="SEQN"/>
+   <variable name="RIDAGEMN"/>
+   <variable name="RIDRETH1"/>
+   <variable name="RIDAGEYR"/>
+   <variable name="RIDEXMON"/>
+   <variable name="DMDHRGND"/>
+   <variable name="RIDSTATR"/>
+   <variable name="DMDYRSUS"/>
+   <variable name="RIAGENDR"/>
+   <variable name="DMDHHSIZ"/>
+   <variable name="SDDSRVYR"/>
+   <variable name="DMDMARTL"/>
+   <variable name="DMDEDUC3"/>
+   <variable name="DMDEDUC2"/>
+   <variable name="DMDCITZN"/>
+   <variable name="RIDEXPRG"/>
+   <variable name="INDFMPIR"/>
+  </table>
+ </group>
+ <group name="Examination">
+  <table name="Body Measures (BMX_J)">
+   <variable name="BMXWT"/>
+   <variable name="BMXLEG"/>
+   <variable name="BMXARMC"/>
+   <variable name="BMXHEAD"/>
+   <variable name="BMXWAIST"/>
+   <variable name="BMXARML"/>
+   <variable name="BMXRECUM"/>
+   <variable name="BMXBMI"/>
+   <variable name="BMXHT"/>
+  </table>
+ </group>
+ <group name="Weights">
+  <table name="Sample weights">
+   <variable name="WTINT20YR"/>
+   <variable name="WTMEC20YR"/>
+  </table>
+ </group>
+</data>
